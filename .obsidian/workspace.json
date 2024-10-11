@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "f124f8e47bab773f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3839bc1ad8d1fbc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d82d16f0dd92be0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Component rendering and side effects.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "931862bff72c0520",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conditional Rendering and Shared State.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "624d062845d6e01e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Context and navigation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "33d29c02b24dd802",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "User input and Forms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1880e8f74d671818",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "application design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bb144d446a6bdd9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a34e0dbc342e00a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ed2d7a28be8e36d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "747af2dd3d952fee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5a1460709803557e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a26019aada5090b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "80fe07faa907e688",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "875b0b3531315421",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "application design.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "47795cfeaf7e148f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "application design.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c903cbf171314c75",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b5b139542e90f4cc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "application design.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1880e8f74d671818",
+  "lastOpenFiles": [
+    "Pasted image 20241011151753.png",
+    "Pasted image 20241011151344.png",
+    "Pasted image 20241011151238.png",
+    "Pasted image 20241011151135.png",
+    "Pasted image 20241009132817.png",
+    "Pasted image 20241009122926.png",
+    "Pasted image 20241009120448.png",
+    "Pasted image 20241009120236.png",
+    "application design.md",
+    "User input and Forms.md",
+    "Pasted image 20241011150420.png",
+    "Pasted image 20241011145819.png",
+    "Pasted image 20241011145741.png",
+    "Context and navigation.md",
+    "Conditional Rendering and Shared State.md",
+    "Component rendering and side effects.md",
+    "Hooks, Props and State.md",
+    "Styling Components.md",
+    "Anatomy of an application.md",
+    "The Power of React.md",
+    "React 18 Fundamentals.md",
+    "React 18.md",
+    "Welcome.md"
+  ]
+}
