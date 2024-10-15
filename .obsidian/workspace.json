@@ -4,71 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3839bc1ad8d1fbc6",
+        "id": "2a2f0509717d42cf",
         "type": "tabs",
         "children": [
           {
-            "id": "d82d16f0dd92be0a",
+            "id": "6aaed4fa63f240fe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Component rendering and side effects.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "931862bff72c0520",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Conditional Rendering and Shared State.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "624d062845d6e01e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Context and navigation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33d29c02b24dd802",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "User input and Forms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1880e8f74d671818",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "application design.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "application design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "application design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "application design.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -195,8 +138,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1880e8f74d671818",
+  "active": "6aaed4fa63f240fe",
   "lastOpenFiles": [
+    "Component rendering and side effects.md",
+    "Conditional Rendering and Shared State.md",
+    "Context and navigation.md",
+    "User input and Forms.md",
+    "Anatomy of an application.md",
+    "application design.md",
     "Pasted image 20241011151753.png",
     "Pasted image 20241011151344.png",
     "Pasted image 20241011151238.png",
@@ -205,17 +154,10 @@
     "Pasted image 20241009122926.png",
     "Pasted image 20241009120448.png",
     "Pasted image 20241009120236.png",
-    "application design.md",
-    "User input and Forms.md",
     "Pasted image 20241011150420.png",
     "Pasted image 20241011145819.png",
-    "Pasted image 20241011145741.png",
-    "Context and navigation.md",
-    "Conditional Rendering and Shared State.md",
-    "Component rendering and side effects.md",
     "Hooks, Props and State.md",
     "Styling Components.md",
-    "Anatomy of an application.md",
     "The Power of React.md",
     "React 18 Fundamentals.md",
     "React 18.md",
